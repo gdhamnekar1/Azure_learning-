@@ -1,0 +1,10 @@
+Azure Bastion:
+       Azure Bastion is a service you deploy that lets you connect to a virtual machine using your 
+  browser and the Azure portal, or via the native SSH or RDP client already installed on your local computer
+Prerequisite
+    1 NSG
+    1 Azure Bastion Host 
+    N, VMs
+
+connections will be
+      user> azure portal>Vnet> Subnet> NSG> AzureBastion Host>-------------Target subnet2> no. of VMs 
