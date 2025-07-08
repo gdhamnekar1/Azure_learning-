@@ -1,0 +1,19 @@
+Storage Account:
+
+Microsoft Azure's storage solution for object storage, file storage, message queue and a NoSQL store for meeting modern application requirements
+
+>High availability and durability
+
+Storage account comes with different redundancies to fulfill your durability requirements. Data stored in the storage account can be replicated to different datacenters and even across regions ensuring high availability for the data
+
+>Security
+
+By default, all data written to the storage account is encrypted by Storage Encryption Service. To access the data storage accounts, provide different authorization methods such as storage keys, shared access signature, and Azure AD
+
+>Scalability and Managed
+
+Azure Storage is a platform managed service, depending upon the requirement it will automatically scale the storage and performance
+
+>Access
+
+HITP or HTTPS can be used to access the data that is stored in Azure Storage. With the help SDKs provided by Microsoft, developers can easily integrate Azure Storage with their code. Azure Storage also supports Azure PowerShell, Azure C and REST API
