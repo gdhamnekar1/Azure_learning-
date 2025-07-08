@@ -1,0 +1,7 @@
+What are Virtual Machine scale sets:
+
+Azure compute helps to provide High availability and better performance to your application by creating & managing a group of identical, load-balanced VMS
+
+The Number of VMs can automatically increase or decrease in response to demand or on a defined schedule
+
+Supports up to 1000 VMs with your own custom images up to 600 VMS
