@@ -1,0 +1,21 @@
+Network Security Groups:
+        NSG's can contain multiple inbound and outbound security rules that enable you to filter traffic to 
+and from resources by source and destination IP address, port, and protocol
+
+
+*NSG can be attached to subnets, network cards or ASGS
+*Various NSG properties:
+    >Name
+    >Priority
+    >Source & Destination
+    >Protocol
+    >Direction
+    >Port Range
+    >Action
+
+*Application Security Groups:
+             Application security groups enable you to configure network security, allowing you to group virtual 
+machines and define network security policies based on those groups
+
+*ASGs can be set as Source or Destination in an NSG
+*NSGs would still be required if the VMs are grouped together with ASGs
