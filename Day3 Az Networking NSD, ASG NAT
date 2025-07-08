@@ -19,3 +19,9 @@ machines and define network security policies based on those groups
 
 *ASGs can be set as Source or Destination in an NSG
 *NSGs would still be required if the VMs are grouped together with ASGs
+
+
+NAT Gateway
+Azure NAT Gateway (Network Address Translation Gateway) is a fully managed network service that provides outbound 
+internet connectivity for resources inside your Azure Virtual Network (VNet) — typically for virtual machines, containers,
+or services in a private subnet.
